@@ -2,11 +2,7 @@
   "cesp_version": "1.0",
   "name": "ds1-solaire",
   "display_name": "Dark Souls – Solaire of Astora",
-<<<<<<< Updated upstream
-  "version": "1.0.0",
-=======
   "version": "1.0.1",
->>>>>>> Stashed changes
   "description": "A sound pack for true warriors of sunlight.",
   "author": {
     "name": "jmfiebak",
@@ -17,16 +13,6 @@
   "categories": {
     "session.start": {
       "sounds": [
-<<<<<<< Updated upstream
-        { "file": "sounds/SolaireHello.mp3", "label": "Greeting 1" },
-        { "file": "sounds/SolaireHelloStillHere.mp3", "label": "Greeting 2" },
-        { "file": "sounds/SolaireHelloThere.mp3", "label": "Greeting 3" },
-        { "file": "sounds/SolaireHelloThere2.mp3", "label": "Greeting 4" },
-        { "file": "sounds/SolaireKeenOnSpeaking.mp3", "label": "Greeting 5" },
-        { "file": "sounds/SolaireHmmOhHelloThere.mp3", "label": "Greeting 6" },
-        { "file": "sounds/SolaireIntuition.mp3", "label": "Greeting 7" }
-
-=======
         {
           "file": "sounds/SolaireHello.mp3",
           "label": "Ah, hello!"
@@ -55,7 +41,6 @@
           "file": "sounds/SolaireDidntScareYou.mp3",
           "label": "So I didn't scare you"
         }
->>>>>>> Stashed changes
       ]
     },
     "task.acknowledge": {
@@ -88,21 +73,6 @@
     },
     "task.complete": {
       "sounds": [
-<<<<<<< Updated upstream
-        { "file": "sounds/SolaireLaugh.mp3", "label": "Complete 1" },
-        { "file": "sounds/SolaireLaugh2.mp3", "label": "Complete 2" },
-        { "file": "sounds/SolaireLaugh3.mp3", "label": "Complete 3" },
-        { "file": "sounds/SolaireLaugh4.mp3", "label": "Complete 4" },
-        { "file": "sounds/SolaireWonderful.mp3", "label": "Complete 5" },
-        { "file": "sounds/SolairePleasesGreatly.mp3", "label": "Complete 6" },
-        { "file": "sounds/SolaireHurrah.mp3", "label": "Complete 7" },
-        { "file": "sounds/SolaireThereWeAre.mp3", "label": "Complete 8" },
-        { "file": "sounds/SolaireFinallyFoundIt.mp3", "label": "Complete 9" },
-        { "file": "sounds/SolaireDidIt.mp3", "label": "Complete 10" },
-        { "file": "sounds/SolaireGladToSeeYouAlive.mp3", "label": "Complete 11" },
-        { "file": "sounds/SolairePowerOfTheSun.mp3", "label": "Complete 12" }
-
-=======
         {
           "file": "sounds/SolaireLaugh2.mp3",
           "label": "Laugh 1"
@@ -127,7 +97,6 @@
           "file": "sounds/SolaireThereWeAre.mp3",
           "label": "There we are"
         }
->>>>>>> Stashed changes
       ]
     },
     "task.error": {
