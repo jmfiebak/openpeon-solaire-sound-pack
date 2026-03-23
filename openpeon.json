@@ -18,7 +18,9 @@
         { "file": "sounds/SolaireHelloThere.mp3", "label": "Greeting 3" },
         { "file": "sounds/SolaireHelloThere2.mp3", "label": "Greeting 4" },
         { "file": "sounds/SolaireKeenOnSpeaking.mp3", "label": "Greeting 5" },
-        { "file": "sounds/SolaireHmmOhHelloThere.mp3", "label": "Greeting 6" }
+        { "file": "sounds/SolaireHmmOhHelloThere.mp3", "label": "Greeting 6" },
+        { "file": "sounds/SolaireIntuition.mp3", "label": "Greeting 7" }
+
       ]
     },
     "task.acknowledge": {
@@ -63,7 +65,10 @@
         { "file": "sounds/SolaireHurrah.mp3", "label": "Complete 7" },
         { "file": "sounds/SolaireThereWeAre.mp3", "label": "Complete 8" },
         { "file": "sounds/SolaireFinallyFoundIt.mp3", "label": "Complete 9" },
-        { "file": "sounds/SolaireDidIt.mp3", "label": "Complete 10" }
+        { "file": "sounds/SolaireDidIt.mp3", "label": "Complete 10" },
+        { "file": "sounds/SolaireGladToSeeYouAlive.mp3", "label": "Complete 11" },
+        { "file": "sounds/SolairePowerOfTheSun.mp3", "label": "Complete 12" }
+
       ]
     },
     "task.error": {
