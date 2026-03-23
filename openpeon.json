@@ -2,10 +2,14 @@
   "cesp_version": "1.0",
   "name": "ds1-solaire",
   "display_name": "Dark Souls – Solaire of Astora",
+<<<<<<< Updated upstream
   "version": "1.0.0",
+=======
+  "version": "1.0.1",
+>>>>>>> Stashed changes
   "description": "A sound pack for true warriors of sunlight.",
   "author": {
-    "name": "Joshua Fiebak",
+    "name": "jmfiebak",
     "github": "jmfiebak"
   },
   "license": "CC-BY-NC-4.0",
@@ -13,6 +17,7 @@
   "categories": {
     "session.start": {
       "sounds": [
+<<<<<<< Updated upstream
         { "file": "sounds/SolaireHello.mp3", "label": "Greeting 1" },
         { "file": "sounds/SolaireHelloStillHere.mp3", "label": "Greeting 2" },
         { "file": "sounds/SolaireHelloThere.mp3", "label": "Greeting 3" },
@@ -21,41 +26,69 @@
         { "file": "sounds/SolaireHmmOhHelloThere.mp3", "label": "Greeting 6" },
         { "file": "sounds/SolaireIntuition.mp3", "label": "Greeting 7" }
 
+=======
+        {
+          "file": "sounds/SolaireHello.mp3",
+          "label": "Ah, hello!"
+        },
+        {
+          "file": "sounds/SolaireHelloStillHere.mp3",
+          "label": "Still here?"
+        },
+        {
+          "file": "sounds/SolaireHelloThere.mp3",
+          "label": "Hello there 1"
+        },
+        {
+          "file": "sounds/SolaireHelloThere2.mp3",
+          "label": "Hello there 2"
+        },
+        {
+          "file": "sounds/SolaireHmmOhHelloThere.mp3",
+          "label": "Hello there 3"
+        },
+        {
+          "file": "sounds/SolaireKeenOnSpeaking.mp3",
+          "label": "Still keen on speaking to me"
+        },
+        {
+          "file": "sounds/SolaireDidntScareYou.mp3",
+          "label": "So I didn't scare you"
+        }
+>>>>>>> Stashed changes
       ]
     },
     "task.acknowledge": {
       "sounds": [
-        { "file": "sounds/SolaireYesYes.mp3", "label": "Acknowledgement 1" },
+        {
+          "file": "sounds/SolaireYesYes.mp3",
+          "label": "Yes, yes..."
+        },
         {
           "file": "sounds/SolaireBraveCompanion.mp3",
-          "label": "Acknowledgement 2"
+          "label": "Brave companion"
         },
         {
           "file": "sounds/SolaireBlessedCompanion.mp3",
-          "label": "Acknowledgement 3"
-        },
-        {
-          "file": "sounds/SolaireDidntScareYou.mp3",
-          "label": "Acknowledgement 4"
+          "label": "I am blessed"
         },
         {
           "file": "sounds/SolaireUnderstandable.mp3",
-          "label": "Acknowledgement 5"
+          "label": "Understandable"
         },
         {
-          "file": "sounds/SolaireIncandescent.mp3",
-          "label": "Acknowledgement 6"
+          "file": "sounds/SolaireChanceToAssist.mp3",
+          "label": "I would relish a chance to assist"
         },
         {
-          "file": "sounds/SolaireImpression.mp3",
-          "label": "Acknowledgement 7"
-        },
-        { "file": "sounds/SolaireAwe.mp3", "label": "Acknowledgement 8" },
-        { "file": "sounds/SolaireBeliefs.mp3", "label": "Acknowledgement 9" }
+          "file": "sounds/SolaireBeliefs.mp3",
+          "label": "To each their own beliefs ..."
+        }
       ]
     },
     "task.complete": {
       "sounds": [
+<<<<<<< Updated upstream
         { "file": "sounds/SolaireLaugh.mp3", "label": "Complete 1" },
         { "file": "sounds/SolaireLaugh2.mp3", "label": "Complete 2" },
         { "file": "sounds/SolaireLaugh3.mp3", "label": "Complete 3" },
@@ -69,18 +102,59 @@
         { "file": "sounds/SolaireGladToSeeYouAlive.mp3", "label": "Complete 11" },
         { "file": "sounds/SolairePowerOfTheSun.mp3", "label": "Complete 12" }
 
+=======
+        {
+          "file": "sounds/SolaireLaugh2.mp3",
+          "label": "Laugh 1"
+        },
+        {
+          "file": "sounds/SolaireLaugh3.mp3",
+          "label": "Laugh 2"
+        },
+        {
+          "file": "sounds/SolaireLaugh4.mp3",
+          "label": "Laugh 3"
+        },
+        {
+          "file": "sounds/SolaireWonderful.mp3",
+          "label": "Wonderful"
+        },
+        {
+          "file": "sounds/SolaireAwe.mp3",
+          "label": "I am in awe"
+        },
+        {
+          "file": "sounds/SolaireThereWeAre.mp3",
+          "label": "There we are"
+        }
+>>>>>>> Stashed changes
       ]
     },
     "task.error": {
       "sounds": [
-        { "file": "sounds/SolaireWrong.mp3", "label": "Error 1" },
-        { "file": "sounds/SolaireBlind.mp3", "label": "Error 2" },
-        { "file": "sounds/SolaireNotToWorry.mp3", "label": "Error 3" },
-        { "file": "sounds/SolaireWhatThe.mp3", "label": "Error 4" },
-        { "file": "sounds/SolaireStubbornBeast.mp3", "label": "Error 5" },
+        {
+          "file": "sounds/SolaireWrong.mp3",
+          "label": "I was in the wrong"
+        },
+        {
+          "file": "sounds/SolaireBlind.mp3",
+          "label": "You must be blind"
+        },
+        {
+          "file": "sounds/SolaireNotToWorry.mp3",
+          "label": "Not to worry"
+        },
+        {
+          "file": "sounds/SolaireWhatThe.mp3",
+          "label": "What the ...?!"
+        },
+        {
+          "file": "sounds/SolaireStubbornBeast.mp3",
+          "label": "Stubborn beast"
+        },
         {
           "file": "sounds/SolairePretendYouDidntHearThat.mp3",
-          "label": "Error 6"
+          "label": "Pretend you didn't hear that"
         }
       ]
     },
@@ -88,50 +162,72 @@
       "sounds": [
         {
           "file": "sounds/SolaireStillCannotFindIt.mp3",
-          "label": "Progress 1"
+          "label": "Still cannot find it"
         },
-        { "file": "sounds/SolaireWasItALie.mp3", "label": "Progress 2" }
+        {
+          "file": "sounds/SolaireWasItALie.mp3",
+          "label": "Was it all a lie?"
+        }
       ]
     },
     "input.required": {
       "sounds": [
         {
           "file": "sounds/SolaireChoiceIsYours.mp3",
-          "label": "Input Required 1"
+          "label": "Choice is yours"
         },
         {
           "file": "sounds/SolaireProposition.mp3",
-          "label": "Input Required 2"
+          "label": "I have a proposition"
         },
         {
           "file": "sounds/SolaireWhatDoYouSay.mp3",
-          "label": "Input Required 3"
+          "label": "So what do you say?"
         },
         {
           "file": "sounds/SolaireWhatDoYouThink.mp3",
-          "label": "Input Required 4"
+          "label": "What do you think?"
         }
       ]
     },
     "resource.limit": {
       "sounds": [
-        { "file": "sounds/SolaireItsOver.mp3", "label": "Limit 1" },
-        { "file": "sounds/SolaireDark.mp3", "label": "Limit 2" },
-        { "file": "sounds/SolaireSunIsSetting.mp3", "label": "Limit 3" },
-        { "file": "sounds/SolaireOurWorlds.mp3", "label": "Limit 4" },
-        { "file": "sounds/SolaireGaze.mp3", "label": "Limit 5" }
+        {
+          "file": "sounds/SolaireItsOver.mp3",
+          "label": "It's over"
+        },
+        {
+          "file": "sounds/SolaireSunIsSetting.mp3",
+          "label": "My sun is setting"
+        },
+        {
+          "file": "sounds/SolaireOurWorlds.mp3",
+          "label": "Our worlds are disconnecting"
+        },
+        {
+          "file": "sounds/SolaireGaze.mp3",
+          "label": "I will stay behind"
+        }
       ]
     },
     "user.spam": {
       "sounds": [
-        { "file": "sounds/SolaireFeelings.mp3", "label": "Spam 1" },
-        { "file": "sounds/SolaireIHardlyThinkSo.mp3", "label": "Spam 2" }
+        {
+          "file": "sounds/SolaireFeelings.mp3",
+          "label": "Fond of chatting"
+        }
       ]
     },
     "user.end": {
       "sounds": [
-        { "file": "sounds/SolaireYouHaveDoneWell.mp3", "label": "Farewell 1" },
-        { "file": "sounds/SolaireStrong.mp3", "label": "Farewell 2" }
+        {
+          "file": "sounds/SolaireYouHaveDoneWell.mp3",
+          "label": "You have done well"
+        },
+        {
+          "file": "sounds/SolaireStrong.mp3",
+          "label": "Strong arm, faith and heart"
+        }
       ]
     }
   }
