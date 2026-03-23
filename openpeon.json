@@ -40,6 +40,14 @@
         {
           "file": "sounds/SolaireDidntScareYou.mp3",
           "label": "So I didn't scare you"
+        },
+        {
+          "file": "sounds/SolaireIntuition.mp3",
+          "label": "I knew you would come"
+        },
+        {
+          "file": "sounds/SolaireGladToSeeYoureAlive.mp3",
+          "label": "I'm glad to see you alive'"
         }
       ]
     },
@@ -68,6 +76,10 @@
         {
           "file": "sounds/SolaireBeliefs.mp3",
           "label": "To each their own beliefs ..."
+        },
+        {
+          "file": "sounds/SolairePleasesGreatly.mp3",
+          "label": "This pleases me greatly!"
         }
       ]
     },
