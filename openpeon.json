@@ -1,0 +1,133 @@
+{
+  "cesp_version": "1.0",
+  "name": "solaire-sound-pack",
+  "display_name": "Knight Solaire Sound Pack",
+  "version": "1.0.0",
+  "description": "A sound pack for true warriors of sunlight.",
+  "author": {
+    "name": "Joshua Fiebak",
+    "github": "jmfiebak"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/SolaireHello.mp3", "label": "Greeting 1" },
+        { "file": "sounds/SolaireHelloStillHere.mp3", "label": "Greeting 2" },
+        { "file": "sounds/SolaireHelloThere.mp3", "label": "Greeting 3" },
+        { "file": "sounds/SolaireHelloThere2.mp3", "label": "Greeting 4" },
+        { "file": "sounds/SolaireKeenOnSpeaking.mp3", "label": "Greeting 5" },
+        { "file": "sounds/SolaireHmmOhHelloThere.mp3", "label": "Greeting 6" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/SolaireYesYes.mp3", "label": "Acknowledgement 1" },
+        {
+          "file": "sounds/SolaireBraveCompanion.mp3",
+          "label": "Acknowledgement 2"
+        },
+        {
+          "file": "sounds/SolaireBlessedCompanion.mp3",
+          "label": "Acknowledgement 3"
+        },
+        {
+          "file": "sounds/SolaireDidntScareYou.mp3",
+          "label": "Acknowledgement 4"
+        },
+        {
+          "file": "sounds/SolaireUnderstandable.mp3",
+          "label": "Acknowledgement 5"
+        },
+        {
+          "file": "sounds/SolaireIncandescent.mp3",
+          "label": "Acknowledgement 6"
+        },
+        {
+          "file": "sounds/SolaireImpression.mp3",
+          "label": "Acknowledgement 7"
+        },
+        { "file": "sounds/SolaireAwe.mp3", "label": "Acknowledgement 8" },
+        { "file": "sounds/SolaireBeliefs.mp3", "label": "Acknowledgement 9" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/SolaireLaugh.mp3", "label": "Complete 1" },
+        { "file": "sounds/SolaireLaugh2.mp3", "label": "Complete 2" },
+        { "file": "sounds/SolaireLaugh3.mp3", "label": "Complete 3" },
+        { "file": "sounds/SolaireLaugh4.mp3", "label": "Complete 4" },
+        { "file": "sounds/SolaireWonderful.mp3", "label": "Complete 5" },
+        { "file": "sounds/SolairePleasesGreatly.mp3", "label": "Complete 6" },
+        { "file": "sounds/SolaireHurrah.mp3", "label": "Complete 7" },
+        { "file": "sounds/SolaireThereWeAre.mp3", "label": "Complete 8" },
+        { "file": "sounds/SolaireFinallyFoundIt.mp3", "label": "Complete 9" },
+        { "file": "sounds/SolaireDidIt.mp3", "label": "Complete 10" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/SolaireWrong.mp3", "label": "Error 1" },
+        { "file": "sounds/SolaireBlind.mp3", "label": "Error 2" },
+        { "file": "sounds/SolaireNotToWorry.mp3", "label": "Error 3" },
+        { "file": "sounds/SolaireWhatThe.mp3", "label": "Error 4" },
+        { "file": "sounds/SolaireStubbornBeast.mp3", "label": "Error 5" },
+        {
+          "file": "sounds/SolairePretendYouDidntHearThat.mp3",
+          "label": "Error 6"
+        }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        {
+          "file": "sounds/SolaireStillCannotFindIt.mp3",
+          "label": "Progress 1"
+        },
+        { "file": "sounds/SolaireWasItALie.mp3", "label": "Progress 2" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/SolaireChoiceIsYours.mp3",
+          "label": "Input Required 1"
+        },
+        {
+          "file": "sounds/SolaireProposition.mp3",
+          "label": "Input Required 2"
+        },
+        {
+          "file": "sounds/SolaireWhatDoYouSay.mp3",
+          "label": "Input Required 3"
+        },
+        {
+          "file": "sounds/SolaireWhatDoYouThink.mp3",
+          "label": "Input Required 4"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/SolaireItsOver.mp3", "label": "Limit 1" },
+        { "file": "sounds/SolaireDark.mp3", "label": "Limit 2" },
+        { "file": "sounds/SolaireSunIsSetting.mp3", "label": "Limit 3" },
+        { "file": "sounds/SolaireOurWorlds.mp3", "label": "Limit 4" },
+        { "file": "sounds/SolaireGaze.mp3", "label": "Limit 5" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/SolaireFeelings.mp3", "label": "Spam 1" },
+        { "file": "sounds/SolaireIHardlyThinkSo.mp3", "label": "Spam 2" }
+      ]
+    },
+    "user.end": {
+      "sounds": [
+        { "file": "sounds/SolaireYouHaveDoneWell.mp3", "label": "Farewell 1" },
+        { "file": "sounds/SolaireStrong.mp3", "label": "Farewell 2" }
+      ]
+    }
+  }
+}
