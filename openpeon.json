@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "ds1-solaire",
   "display_name": "Dark Souls – Solaire of Astora",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A sound pack for true warriors of sunlight.",
   "author": {
     "name": "jmfiebak",
@@ -46,8 +46,8 @@
           "label": "I knew you would come"
         },
         {
-          "file": "sounds/SolaireGladToSeeYoureAlive.mp3",
-          "label": "I'm glad to see you're alive"
+          "file": "sounds/SolaireGladToSeeYouAlive.mp3",
+          "label": "I'm glad to see you alive"
         }
       ]
     },
